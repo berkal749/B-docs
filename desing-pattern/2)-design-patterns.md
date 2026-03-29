@@ -39,3 +39,9 @@ Structural patterns: explain how to assemble objects and classes into larger str
 Behavioral patterns : take care of effective communication and the assignment of responsibilities between objects.
 
 
+
+in the next files we talk about  eaxh category with specfying what inside
+
+
+
+
