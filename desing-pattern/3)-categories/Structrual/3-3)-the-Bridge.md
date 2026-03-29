@@ -164,4 +164,13 @@ class CompressedExporter extends FileExporter {
 
 It's called Bridge because of the **aggregation link** between the Abstraction and the Implementation — that connection *is* the bridge.
 
-Thanks for reading! Next up: **Composite**. 🧱
+Thanks for reading! Next up: **Composite**. 
+
+
+---
+
+##  Further Reading
+
+- [Bridge Pattern — Refactoring Guru](https://refactoring.guru/design-patterns/bridge)
+
+>  **New to UML?** Read this first → [UML Class Diagrams for Beginners](https://blog.algomaster.io/p/uml-class-diagram-explained-with-examples)
